@@ -35,6 +35,7 @@ Google Chrome will not allow CORS which are required for this assignment if run 
   
 Evaluation
 ----------
+Your code must be compatible with: IE 10+ and Chrome, Firefox, Safari, Opera latest stable version
 The test protocol for this will be manual. A rough outline will be as follows:
 - Run the search with no filtering.
 - Naviage to one of the results by clicking the link.
